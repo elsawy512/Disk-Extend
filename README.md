@@ -1,6 +1,6 @@
 # Disk-Extend
 Disk Extend automations process 
-“Disk is 95% full. Urgent.”
+“Disk is 90% full. Urgent.”
 
 You increase the disk in the cloud.
 
